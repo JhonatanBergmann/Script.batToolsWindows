@@ -4,11 +4,12 @@ cls
 cls
 COLOR 8E
 
-echo COMPUTADOR: %computername%        USUARIO: %username%
+echo       COMPUTADOR: %computername%        
+echo          USUARIO: %username%
                    
-echo            MENU TAREFAS
-echo           TOOLS  WINDOWS
-echo          Jhonatan Bergmann
+echo             MENU TAREFAS
+echo            TOOLS  WINDOWS
+echo           Jhonatan Bergmann
 echo  ======================================
 echo * 1.1 ESCANEAR CHKDSK C                *
 echo * 1.2 ESCANEAR CHKDSK D                *
